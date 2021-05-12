@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 781fc6beb2daeb4459fc8e0ebffd47b1, type: 3}
+  m_Name: Gems Item
+  m_EditorClassIdentifier: 
+  title: 
+  description: 
+  uiDisplay: {fileID: -4869357254534750094, guid: bd29a8cb5e4a2b341a6708948b69c0ac, type: 3}
+  stackable: 1
+  upgradable: 1
+  currentUpgradeLevel: 1
+  maxUpgradeLevel: 1
+  levelToEquip: 0
+  itemType: {fileID: 0}
+  tierType: {fileID: 0}
+  rareType: {fileID: 0}
+  materialType: {fileID: 0}
+  characters:
+  - {fileID: 11400000, guid: cca1d6d498d29794cb74127f05ec27c0, type: 2}
+  - {fileID: 11400000, guid: b00de6626636c5146ba81e6cd2b8d954, type: 2}
+  - {fileID: 11400000, guid: c3cc1f359e12ec647973acbc26a0682b, type: 2}
+  - {fileID: 11400000, guid: 3f8fe093ae3757c4aae8cf3b36263be5, type: 2}
+  - {fileID: 11400000, guid: 8e41d9952178af64f9d416cd9e0a964d, type: 2}
+  - {fileID: 11400000, guid: 7fc9a51fbed366343bf3294b317966af, type: 2}
+  sockets: []
+  objectToDisplay: {fileID: 0}
+  itemsAttributes: {fileID: 0}
+  data:
+    Name: 
+    Id: -1
+    currentUpgradeLevel: 0
+    levelToEquip: 0
+    tier: {fileID: 0}
+    rareItemType: {fileID: 0}
+    itemMaterialType: {fileID: 0}
+    itemsAttributes: {fileID: 0}

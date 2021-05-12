@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b97af51f32695724394d351c52d11901, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  title: Sword
+  description: Sword
+  uiDisplay: {fileID: 7656059709603606667, guid: 86728de9a0275924aab148c697db4bd9, type: 3}
+  stackable: 0
+  upgradable: 1
+  currentUpgradeLevel: 1
+  maxUpgradeLevel: 3
+  levelToEquip: 5
+  itemType: {fileID: 11400000, guid: 8ad75eaf9044c17469395dcaa24d7175, type: 2}
+  tierType: {fileID: 11400000, guid: c749076db0b58f54ba5cdfbf4e75f66e, type: 2}
+  rareType: {fileID: 11400000, guid: 8fdecadf17b97344c9a05130f779982d, type: 2}
+  materialType: {fileID: 11400000, guid: e934415c634bb92418171c7dfc5d33c3, type: 2}
+  characters:
+  - {fileID: 11400000, guid: 7fc9a51fbed366343bf3294b317966af, type: 2}
+  - {fileID: 11400000, guid: c3cc1f359e12ec647973acbc26a0682b, type: 2}
+  sockets:
+  - socketType: {fileID: 11400000, guid: b7de1df9f5acbc14896b37b281385013, type: 2}
+    GemItem: {fileID: 0}
+  - socketType: {fileID: 11400000, guid: 952f251f110d0a640bbaa864b08a4684, type: 2}
+    GemItem: {fileID: 0}
+  objectToDisplay: {fileID: 0}
+  itemsAttributes: {fileID: 0}
+  data:
+    Name: 
+    Id: -1
+    currentUpgradeLevel: 0
+    levelToEquip: 0
+    tier: {fileID: 0}
+    rareItemType: {fileID: 0}
+    itemMaterialType: {fileID: 0}
+    itemsAttributes: {fileID: 0}
+    characters: []
+    sockets: []
